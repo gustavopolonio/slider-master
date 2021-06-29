@@ -18,7 +18,7 @@ let avatar = [
         profession: "Civil engineer student"
     },
     {
-        avatarImage: { url: "https://media-exp1.licdn.com/dms/image/C4E03AQHVZZEhYi8QFg/profile-displayphoto-shrink_200_200/0?e=1609372800&v=beta&t=3PShdcz6DJVRJuXJ_ikWvdODsuzSwlYvpeOrVQRG85A" },
+        avatarImage: { url: "https://avatars.githubusercontent.com/u/1908715?v=4" },
         description: "´´ I recommending this course because you learn in practice with great instructors. After this course you’ll be able to be a good developing and find a job. ``",
         name: "Ana Clara Joya Giantomassi",
         profession: "Engineer Senior"

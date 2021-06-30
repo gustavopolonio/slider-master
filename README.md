@@ -72,7 +72,7 @@ http://localhost:5500/<port_number>
 # :closed_book: License
 
 Released in 2020.
-AAA
-This project is under the [MIT license](https://github.com/LauraBeatris/phoenix-blog/master/LICENSE).
+
+This project is under the [MIT license](https://github.com/gustavopolonio/slider-master/blob/master/LICENSE).
 
 Made with love by [Gustavo Polonio](https://github.com/gustavopolonio)🚀

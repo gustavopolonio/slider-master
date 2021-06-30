@@ -1,10 +1,14 @@
-<p align="left">
-   <img src=".github/logo.png" width="200"/>
-</p>
-
 # Slider Master
 
-## Screenshots
+<p display="flex" align="center" justifyContent="center">
+   <img src="https://github.com/gustavopolonio/slider-master/blob/master/.github/docs/mobile1.png" width="300"/>
+   <img src="https://github.com/gustavopolonio/slider-master/blob/master/.github/docs/web1.png" width="600"/>
+</p>
+<p>
+   <img src="https://github.com/gustavopolonio/slider-master/blob/master/.github/docs/mobile2.png" width="300"/>
+   <img src="https://github.com/gustavopolonio/slider-master/blob/master/.github/docs/web2.png" width="900"/>
+</p>
+
 
 [![Author](https://img.shields.io/badge/author-GustavoPolonio-363f5f?style=flat-square)](https://github.com/gustavopolonio)
 

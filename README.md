@@ -20,14 +20,14 @@
 * [About this Project](#about-this-project)
 * [Getting Started](#construction_worker-getting-started)
 * [Technologies](#technologies)
-* [License](#closed-book-License)
+* [License](#closed_book-license)
 
 
 # About this Project
 
-A simple project to fix some concepts about animation in Javascript. It has static data with the functionality to slide back and forth to show the data of some fictitious employees.
+A simple project to fix some concepts about animation in Javascript. It's full responsive, has mobile-first approach and static data with the functionality to slide back and forth to show the data of some fictitious employees.
 
-This project is part of my personal portfolio, so I would appreciate if you provide me any feedback about the ideia, code, structure or anything you could report to make me a better developer.
+This project idea was taken from [Frontend Mentor](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL) and is part of my personal portfolio, so I would appreciate if you provide me any feedback about the ideia, code, structure or anything you could report to make me a better developer.
 
 Feel free to use the Slider Master as you wish, either to study or make improvementes!
 
@@ -67,12 +67,15 @@ http://localhost:5500/<port_number>
 * [CSS](https://devdocs.io/css/)
 * [Javascript](https://devdocs.io/javascript/) 
 * [Liver Server](https://github.com/ritwickdey/vscode-live-server/blob/master/docs/settings.md)
-* [ESlint](https://eslint.org/)
+* [VSCode](https://code.visualstudio.com/) with [ESlint](https://eslint.org/)
 
 # :closed_book: License
 
-Released in 2020.
+This project is under the MIT license. See the [license](https://github.com/gustavopolonio/slider-master/blob/master/LICENSE) for more informations.
 
-This project is under the [MIT license](https://github.com/gustavopolonio/slider-master/blob/master/LICENSE).
+---
 
-Made with love by [Gustavo Polonio](https://github.com/gustavopolonio)🚀
+Made with :green_heart: by [Gustavo Polonio](https://github.com/gustavopolonio) 🚀
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-polonio-04b77a169/)](https://www.linkedin.com/in/gustavo-polonio-04b77a169/)
+[![Gmail Badge](https://img.shields.io/badge/-gustavopolonio1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavopolonio1@gmail.com)](mailto:gustavopolonio1@gmail.com)

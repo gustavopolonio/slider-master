@@ -1,33 +1,22 @@
 # Slider Master
 
-<p display="flex" align="center" justifyContent="center">
-   <img src="https://github.com/gustavopolonio/slider-master/blob/master/.github/docs/mobile1.png" width="300"/>
-   <img src="https://github.com/gustavopolonio/slider-master/blob/master/.github/docs/web1.png" width="600"/>
+<p align="center">
+   <img src="https://github.com/gustavopolonio/slider-master/blob/master/.github/docs/mobile.png" width="480"/>
 </p>
-<p>
-   <img src="https://github.com/gustavopolonio/slider-master/blob/master/.github/docs/mobile2.png" width="300"/>
-   <img src="https://github.com/gustavopolonio/slider-master/blob/master/.github/docs/web2.png" width="900"/>
+<p align="center">
+   <img src="https://github.com/gustavopolonio/slider-master/blob/master/.github/docs/web.png" width="780"/>
 </p>
 
-
-[![Author](https://img.shields.io/badge/author-GustavoPolonio-363f5f?style=flat-square)](https://github.com/gustavopolonio)
-
-[![Languages](https://img.shields.io/github/languages/count/LauraBeatris/phoenix-blog?color=%23363f5f&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/LauraBeatris/phoenix-blog?color=363f5f&style=flat-square)](https://github.com/LauraBeatris/phoenix-blog/stargazers)
-[![Forks](https://img.shields.io/github/forks/LauraBeatris/phoenix-blog?color=%23363f5f&style=flat-square)](https://github.com/LauraBeatris/phoenix-blog/network/members)
-[![Contributors](https://img.shields.io/github/contributors/LauraBeatris/phoenix-blog?color=363f5f&style=flat-square)](https://github.com/LauraBeatris/phoenix-blog/graphs/contributors)
-
----
 
 # :pushpin: Table of Contents
 
-* [About this Project](#about-this-project)
+* [About this Project](#book-about-this-project)
 * [Getting Started](#construction_worker-getting-started)
-* [Technologies](#technologies)
+* [Technologies](#computer-technologies)
 * [License](#closed_book-license)
 
 
-# About this Project
+# :book: About this Project
 
 A simple project to fix some concepts about animation in Javascript. It's full responsive, has mobile-first approach and static data with the functionality to slide back and forth to show the data of some fictitious employees.
 
@@ -48,24 +37,24 @@ Before starting, you need to have installed in your machine the [Git](https://gi
 To clone this project via HTTPS, run the command:
 
 ```
-  git clone https://github.com/gustavopolonio/slider-master.git
+git clone https://github.com/gustavopolonio/slider-master.git
 ```
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone this project using the command:
 
-```
-  git clone git@github.com:gustavopolonio/slider-master.git
+``` 
+git clone git@github.com:gustavopolonio/slider-master.git
 ```
 </br>
 
-Open the cloned project in your editor and install a Live Server to launch a development local server with live reload feature. If you are also using [VSCode](https://code.visualstudio.com/), I recommend to install the extension [LiveServer](https://github.com/ritwickdey/vscode-live-server/blob/master/docs/settings.md).
+Open the cloned project in your editor and install a Live Server to launch a development local server with live reload feature. If you are using [VSCode](https://code.visualstudio.com/) like me, I recommend to install the extension [LiveServer](https://github.com/ritwickdey/vscode-live-server/blob/master/docs/settings.md).
 Then start the live server and open the browser in the port number provided:
 
 ```
-http://localhost:5500/<port_number>
+http://localhost:<port_number>/
 ```
 
-# Technologies
+# :computer: Technologies
 
 * [HTML](https://devdocs.io/html/)
 * [CSS](https://devdocs.io/css/)
